@@ -1,0 +1,4 @@
+accessing
+allStrategies
+
+	^ {self new}

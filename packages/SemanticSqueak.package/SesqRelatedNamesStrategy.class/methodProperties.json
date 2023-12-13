@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicRunFor:" : "ct 12/13/2023 13:33",
+		"makeArtifactFromName:rank:originArtifacts:" : "ct 12/13/2023 13:21",
+		"number" : "ct 12/7/2023 20:39",
+		"outputArtifactRole" : "ct 12/7/2023 20:31",
+		"relatedNamesFor:" : "ct 12/7/2023 20:36",
+		"requiredArtifactRole" : "ct 12/7/2023 20:32",
+		"requiredArtifactRoles" : "ct 12/7/2023 20:32" } }

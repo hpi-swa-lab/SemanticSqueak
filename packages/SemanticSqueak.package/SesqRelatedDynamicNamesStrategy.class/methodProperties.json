@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"allStrategies" : "ct 12/7/2023 21:00" },
+	"instance" : {
+		"makeArtifactFromName:rank:originArtifacts:" : "ct 12/13/2023 13:21",
+		"nonGrataMethods" : "ct 12/7/2023 21:51",
+		"relatedNamesFor:" : "ct 12/13/2023 13:44",
+		"timeoutPerMethod" : "ct 12/7/2023 21:12",
+		"type" : "ct 12/13/2023 15:01" } }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"for:" : "ct 12/12/2023 10:04",
+		"for:artifactRole:" : "ct 12/12/2023 10:14" },
+	"instance" : {
+		"artifactRole" : "ct 12/12/2023 10:04",
+		"artifactRole:" : "ct 12/12/2023 10:04",
+		"artifactTexts" : "ct 12/12/2023 09:56",
+		"artifacts" : "ct 12/12/2023 09:51",
+		"artifactsChanged" : "ct 12/12/2023 09:56",
+		"basicAddArtifact:" : "ct 12/13/2023 15:14",
+		"basicAddArtifacts:from:" : "ct 12/13/2023 15:14",
+		"buildWith:" : "ct 12/12/2023 10:11",
+		"initialize" : "ct 12/13/2023 12:20",
+		"isSearching" : "ct 12/12/2023 10:18",
+		"resetArtifacts" : "ct 12/13/2023 12:30",
+		"suggestionSpace" : "ct 12/12/2023 10:14",
+		"suggestionSpace:" : "ct 12/12/2023 10:14",
+		"updateContents" : "ct 12/13/2023 15:45" } }

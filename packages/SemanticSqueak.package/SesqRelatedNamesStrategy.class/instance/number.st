@@ -1,0 +1,4 @@
+accessing
+number
+
+	^ 50

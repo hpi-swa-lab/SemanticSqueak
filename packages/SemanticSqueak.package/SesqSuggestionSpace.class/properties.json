@@ -1,0 +1,20 @@
+{
+	"category" : "SemanticSqueak-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"board",
+		"suggestionPanes",
+		"focusFollower",
+		"currentEditor",
+		"previousHalo",
+		"methodArtifact",
+		"visibleArtifactRoles" ],
+	"name" : "SesqSuggestionSpace",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

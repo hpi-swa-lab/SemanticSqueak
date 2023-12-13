@@ -1,0 +1,4 @@
+private
+hasPendingMethods
+
+	^ hasPendingMethods

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"cacheHashesDuring:" : "ct 12/4/2023 16:16",
+		"hashedMethods" : "ct 12/4/2023 16:18",
+		"maximumSourceSize" : "ct 11/29/2023 23:03",
+		"method:" : "ct 11/29/2023 19:45",
+		"methodForHash:ifAbsent:" : "ct 11/29/2023 21:04",
+		"methodHashFor:" : "ct 12/4/2023 16:18" },
+	"instance" : {
+		"method" : "ct 11/29/2023 19:37",
+		"method:" : "ct 11/29/2023 19:37",
+		"methodHash" : "ct 12/4/2023 16:17",
+		"object" : "ct 11/29/2023 19:37",
+		"printOn:" : "ct 11/29/2023 20:25",
+		"readHeaderFrom:for:" : "ct 12/6/2023 00:57",
+		"text" : "ct 11/29/2023 20:46",
+		"writeHeaderOn:" : "ct 12/6/2023 00:39" } }

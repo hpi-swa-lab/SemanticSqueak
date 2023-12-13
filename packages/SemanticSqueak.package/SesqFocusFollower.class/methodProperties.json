@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"predicate:" : "ct 12/6/2023 19:10" },
+	"instance" : {
+		"filterEvent:for:" : "ct 12/7/2023 19:47",
+		"focus" : "ct 12/6/2023 19:14",
+		"focus:" : "ct 12/6/2023 19:38",
+		"initialize" : "ct 12/7/2023 15:09",
+		"predicate" : "ct 12/6/2023 19:09",
+		"predicate:" : "ct 12/6/2023 19:09",
+		"release" : "ct 12/6/2023 19:11",
+		"start" : "ct 12/6/2023 19:12",
+		"startFor:" : "ct 12/7/2023 19:45",
+		"stop" : "ct 12/7/2023 19:47",
+		"updateDraggedMorphs" : "ct 12/7/2023 15:23",
+		"updateDroppedMorphs" : "ct 12/7/2023 15:11",
+		"updateFocus:" : "ct 12/7/2023 15:22",
+		"wantsWindow:" : "ct 12/6/2023 19:09" } }

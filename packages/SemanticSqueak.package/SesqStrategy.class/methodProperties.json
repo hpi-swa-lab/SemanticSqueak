@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"allStrategies" : "ct 12/7/2023 20:21" },
+	"instance" : {
+		"canProduceArtifactRole:" : "ct 12/6/2023 19:57",
+		"hasRun" : "ct 12/6/2023 20:27",
+		"initialize" : "ct 12/6/2023 20:27",
+		"outputArtifactRole" : "ct 12/6/2023 19:57",
+		"requiredArtifactRoles" : "ct 12/6/2023 20:08",
+		"requirements" : "ct 12/6/2023 20:12",
+		"requirements:" : "ct 12/6/2023 20:11",
+		"reset" : "ct 12/7/2023 15:58",
+		"runFor:" : "ct 12/13/2023 13:17",
+		"type" : "ct 12/13/2023 15:00" } }

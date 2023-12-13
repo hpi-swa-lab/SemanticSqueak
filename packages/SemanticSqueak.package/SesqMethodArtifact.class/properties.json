@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method" ],
+	"name" : "SesqMethodArtifact",
+	"pools" : [
+		 ],
+	"super" : "SesqArtifact",
+	"type" : "normal" }

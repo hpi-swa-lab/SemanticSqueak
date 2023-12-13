@@ -1,0 +1,20 @@
+{
+	"category" : "SemanticSqueak-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nextEditor",
+		"nextEditorText",
+		"nextEvent",
+		"world",
+		"predicate",
+		"focus",
+		"draggedMorphs" ],
+	"name" : "SesqFocusFollower",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

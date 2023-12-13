@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		"hashedMethods" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method" ],
+	"name" : "SesqMethodDocument",
+	"pools" : [
+		 ],
+	"super" : "SemanticDocument",
+	"type" : "normal" }

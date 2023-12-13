@@ -1,0 +1,4 @@
+accessing
+visibleArtifactRoles
+
+	^ visibleArtifactRoles

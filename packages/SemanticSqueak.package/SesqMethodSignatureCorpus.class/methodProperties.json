@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addDocumentFor:" : "ct 12/4/2023 20:15",
+		"documentClass" : "ct 12/4/2023 16:10",
+		"includeComment" : "ct 12/4/2023 19:58",
+		"includeComment:" : "ct 12/4/2023 21:29",
+		"initialize" : "ct 12/4/2023 20:00",
+		"readDocumentsFrom:" : "ct 12/4/2023 21:47",
+		"readHeaderFrom:" : "ct 12/4/2023 21:55",
+		"readNextDocumentFrom:" : "ct 12/4/2023 21:53",
+		"writeHeaderOn:" : "ct 12/4/2023 21:27" } }

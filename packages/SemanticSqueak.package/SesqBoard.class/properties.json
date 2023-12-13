@@ -1,0 +1,19 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"artifacts",
+		"strategies",
+		"targetArtifactRoles",
+		"scheduledStrategies",
+		"pendingStrategies",
+		"processes" ],
+	"name" : "SesqBoard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+isFollowingFocus
+
+	^ focusFollower notNil

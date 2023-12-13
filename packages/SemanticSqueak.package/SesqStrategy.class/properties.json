@@ -1,0 +1,15 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"requirements",
+		"hasRun" ],
+	"name" : "SesqStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+removeAllArtifacts
+
+	artifacts removeAll.

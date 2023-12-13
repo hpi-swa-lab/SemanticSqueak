@@ -1,0 +1,4 @@
+accessing - private
+suggestionPanes
+
+	^ suggestionPanes

@@ -1,0 +1,4 @@
+accessing
+mergeKeyForRole
+
+	^ self subclassResponsibility

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"artifactRole" : "ct 12/6/2023 20:10",
+		"artifactRole:" : "ct 12/6/2023 20:10",
+		"asStringOrText" : "ct 12/12/2023 13:21",
+		"asText" : "ct 12/12/2023 10:50",
+		"explain" : "ct 12/7/2023 14:17",
+		"labeledActions" : "ct 12/7/2023 20:43",
+		"mergeKeyForRole" : "ct 12/13/2023 15:15",
+		"originArtifact" : "ct 12/7/2023 14:14",
+		"originArtifact:" : "ct 12/7/2023 14:14",
+		"originPath" : "ct 12/7/2023 14:13",
+		"originStrategy" : "ct 12/7/2023 14:14",
+		"originStrategy:" : "ct 12/7/2023 14:14",
+		"printOriginOn:" : "ct 12/13/2023 15:27",
+		"printTextActionsOn:" : "ct 12/12/2023 13:21",
+		"printTextContentOn:" : "ct 12/12/2023 13:19",
+		"printTextHeaderOn:" : "ct 12/13/2023 15:43",
+		"printTextOn:" : "ct 12/12/2023 13:16",
+		"rank" : "ct 12/13/2023 11:38",
+		"rank:" : "ct 12/13/2023 11:38",
+		"type" : "ct 12/12/2023 13:18" } }

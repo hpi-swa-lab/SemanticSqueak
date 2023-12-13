@@ -1,0 +1,4 @@
+accessing
+requiredArtifactRoles
+
+	^ self subclassResponsibility

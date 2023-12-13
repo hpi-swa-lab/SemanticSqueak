@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addArtifact:" : "ct 12/6/2023 20:20",
+		"addArtifacts:" : "ct 12/13/2023 14:50",
+		"allArtifactRoles" : "ct 12/7/2023 20:22",
+		"allArtifacts" : "ct 12/6/2023 20:09",
+		"allArtifactsForRole:" : "ct 12/6/2023 20:16",
+		"allMergedArtifactsForRole:" : "ct 12/13/2023 15:12",
+		"allStrategies" : "ct 12/6/2023 19:46",
+		"artifacts" : "ct 12/6/2023 20:09",
+		"initialize" : "ct 12/13/2023 13:05",
+		"isPopulating" : "ct 12/13/2023 17:54",
+		"populate" : "ct 12/13/2023 17:57",
+		"removeAllArtifacts" : "ct 12/6/2023 19:39",
+		"resetStrategies" : "ct 12/13/2023 13:05",
+		"run:" : "ct 12/13/2023 13:07",
+		"schedule:" : "ct 12/13/2023 13:04",
+		"startPopulating" : "ct 12/13/2023 17:57",
+		"stopPopulating" : "ct 12/13/2023 17:54",
+		"strategies" : "ct 12/6/2023 19:45",
+		"strategies:" : "ct 12/6/2023 19:45",
+		"targetArtifactRoles" : "ct 12/6/2023 19:53",
+		"targetArtifactRoles:" : "ct 12/6/2023 19:53",
+		"tick" : "ct 12/13/2023 13:07" } }

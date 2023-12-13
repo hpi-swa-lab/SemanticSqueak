@@ -1,0 +1,4 @@
+accessing
+requiredArtifactRole
+
+	^ #similarMethod

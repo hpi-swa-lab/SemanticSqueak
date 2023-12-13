@@ -1,0 +1,17 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"predicate",
+		"hasPendingMethods",
+		"embeddingCache",
+		"isUpdatingMethods" ],
+	"name" : "SesqMethodCorpus",
+	"pools" : [
+		 ],
+	"super" : "SemanticCorpus",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SesqSimilarMethodsStrategy",
+	"pools" : [
+		 ],
+	"super" : "SesqStrategy",
+	"type" : "normal" }

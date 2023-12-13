@@ -1,0 +1,4 @@
+accessing
+allArtifacts
+
+	^ self artifacts
