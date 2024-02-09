@@ -3,4 +3,4 @@ postCopy
 
 	super postCopy.
 	
-	embeddingCache := embeddingCache copy.
+	embeddingCache := LRUCache size: embeddingCache sesqSize factory: [:key | nil].
