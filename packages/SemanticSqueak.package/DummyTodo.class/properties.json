@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"todos" ],
-	"name" : "SesqDummyTodoPlanner",
+		"text",
+		"dueDate" ],
+	"name" : "DummyTodo",
 	"pools" : [
 		 ],
 	"super" : "Object",
