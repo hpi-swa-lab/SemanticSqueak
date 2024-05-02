@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newWithText:due:assignees:" : "ct 4/11/2024 19:41" },
+	"instance" : {
+		"assignees" : "ct 4/11/2024 19:42",
+		"assignees:" : "ct 4/11/2024 19:42",
+		"dueDate" : "ct 4/11/2024 19:42",
+		"dueDate:" : "ct 4/11/2024 19:42",
+		"printOn:" : "ct 4/11/2024 20:01",
+		"text" : "ct 4/11/2024 19:41",
+		"text:" : "ct 4/11/2024 19:41" } }

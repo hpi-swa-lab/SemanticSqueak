@@ -1,0 +1,16 @@
+{
+	"category" : "SemanticSqueak-Demo-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text",
+		"dueDate",
+		"assignees" ],
+	"name" : "SesqDummyProjectItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

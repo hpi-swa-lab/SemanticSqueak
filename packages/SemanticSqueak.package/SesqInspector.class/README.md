@@ -1,0 +1,1 @@
+I allow users to ask questions about an inspected object in natural language. Internally, I decorate a regular inspector with a new conversation mode that embedes a chat with a SesqAgent into the inspector UI.

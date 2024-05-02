@@ -3,4 +3,9 @@
 		"sesqExamplesFor:" : "ct 12/7/2023 22:06",
 		"sesqRunExamplesFor:" : "ct 12/5/2023 16:50" },
 	"instance" : {
-		 } }
+		"!" : "ct 5/2/2024 19:33",
+		"?" : "ct 4/27/2024 22:52",
+		"sesqAsk:" : "ct 4/27/2024 22:53",
+		"sesqBootstrapConversation:" : "ct 4/30/2024 21:49",
+		"sesqOpenConversationWithQuestion:" : "ct 4/28/2024 01:29",
+		"sesqProxy" : "ct 3/16/2024 19:13" } }

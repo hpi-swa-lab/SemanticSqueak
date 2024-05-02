@@ -1,0 +1,1 @@
+I am a proxy that processes semantic messages for an object by forwarding them to a SesqAgent. Semantic messages are syntactically equivalent to regular messages but do not require an implementation in the receiver. Instead, the agent understands the intent of the message from its name and develops an answer autonomously.

@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Core-Agent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 5/2/2024 19:41",
+	"instvars" : [
+		"object" ],
+	"name" : "SesqProxy",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

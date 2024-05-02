@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"todos" ],
+	"name" : "SesqDummyTodoPlanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

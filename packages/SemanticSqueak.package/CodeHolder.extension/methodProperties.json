@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"sesqAskQuestion" : "ct 4/12/2024 21:54",
 		"sesqBrowseSimilarMethodSignatures" : "ct 12/6/2023 19:36",
 		"sesqBrowseSimilarMethods" : "ct 12/6/2023 19:36",
 		"sesqBrowseSimilarSendingMethods" : "ct 12/6/2023 19:36",
+		"sesqClassListMenu:" : "ct 4/12/2024 21:43",
 		"sesqMessageListMenu:" : "ct 12/6/2023 11:57",
 		"sesqSelectedMethod" : "ct 12/6/2023 20:48" } }

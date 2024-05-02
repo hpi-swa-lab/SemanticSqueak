@@ -1,0 +1,16 @@
+{
+	"category" : "SemanticSqueak-UI-Inspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ct 5/2/2024 19:44",
+	"instvars" : [
+		"inspector",
+		"conversationEditor",
+		"selectionIndex" ],
+	"name" : "SesqInspector",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

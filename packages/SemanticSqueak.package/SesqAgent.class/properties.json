@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Core-Agent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IntegrateIntoInspectors" ],
+	"commentStamp" : "ct 5/2/2024 19:38",
+	"instvars" : [
+		"object" ],
+	"name" : "SesqAgent",
+	"pools" : [
+		 ],
+	"super" : "SemanticAgent",
+	"type" : "normal" }

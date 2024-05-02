@@ -1,0 +1,14 @@
+{
+	"category" : "SemanticSqueak-Demo-Project",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lanes" ],
+	"name" : "SesqDummyProjectBoard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
