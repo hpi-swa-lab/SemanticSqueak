@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSemanticSqueak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSemanticSqueak",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

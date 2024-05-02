@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'packages/SemanticSqueak.package' : #SquotCypressCodeSerializer
+	'packages/SemanticSqueak.package' : #SquotCypressCodeSerializer,
+	'packages/BaselineOfSemanticSqueak.package' : #SquotCypressCodeSerializer
 }
