@@ -8,5 +8,5 @@ sesqBootstrapConversation: aConversation
 	
 	(aConversation addAssistantMessage: '`self` represents a profiling trace. Let me continue by retrieving and analyzing the entire trace data.')
 		toolCalls:
-			{eval asToolCallWithArguments: {'String streamContents: [:stream | self report: stream])'}}.
+			{eval asToolCallWithArguments: {'(String streamContents: [:stream | self report: stream])'}}.
 	aConversation resolveAllToolCalls.
