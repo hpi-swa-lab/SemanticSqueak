@@ -46,7 +46,7 @@ Note that you cannot interact with the user. You MUST provide all requested info
 			[results ifNotNil: [^ results first].
 			(statusMessageIndex := statusMessageIndex + 1) = 1 ifFalse:
 				[bar value: (statusMessages atWrap: statusMessageIndex)].
-			conversation estimateTotalExpense maxCents > 50 ifTrue: [self notify: 'it''s getting expensive'].
+			conversation totalExpense maxCents > 50 ifTrue: [self notify: 'it''s getting expensive'].
 			conversation getAssistantReply.
 			conversation hasPendingToolCalls ifFalse: exit.
 			conversation resolveAllToolCalls]
