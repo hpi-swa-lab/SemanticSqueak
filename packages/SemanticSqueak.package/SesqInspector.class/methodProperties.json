@@ -7,6 +7,7 @@
 		"openOn:" : "ct 3/15/2024 21:59",
 		"openOn:withLabel:" : "ct 3/15/2024 21:59" },
 	"instance" : {
+		"addCustomField:" : "ct 2/13/2022 22:18",
 		"aspectDependencies" : "ct 3/15/2024 22:10",
 		"bounds" : "ct 3/15/2024 22:36",
 		"buildCodePaneWith:" : "ct 3/15/2024 21:57",
@@ -45,6 +46,7 @@
 		"labelString" : "ct 3/15/2024 22:07",
 		"makeNewConversation" : "ct 4/12/2024 21:53",
 		"modelWakeUpIn:" : "ct 4/28/2024 20:09",
+		"newCustomField" : "ct 2/12/2022 20:05",
 		"object" : "ct 3/15/2024 22:00",
 		"object:" : "ct 3/16/2024 17:23",
 		"okToChange" : "ct 3/15/2024 22:40",
