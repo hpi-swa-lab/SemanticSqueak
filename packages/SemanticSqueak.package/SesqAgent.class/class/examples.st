@@ -27,4 +27,4 @@ examples
 	World ? 'largest submorph by area'.
 	World ? 'smallest submorph by area'.
 	
-	"aMorph ! 'make this morph blue'."
+	"aMorph ! 'make this morph red'."

@@ -1,0 +1,15 @@
+{
+	"category" : "SemanticSqueak-Demo-Shop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"properties" ],
+	"name" : "SesqDummyOrder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
