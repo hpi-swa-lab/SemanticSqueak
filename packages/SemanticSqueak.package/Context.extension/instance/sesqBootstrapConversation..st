@@ -15,3 +15,5 @@ sesqBootstrapConversation: aConversation
 	"aConversation addSystemMessage: 'Continue by thinking aloud to analyze the call stack. Take a deep breath and explain what you are seeing and understanding before you finally answer the original question.'."
 	
 	"answer in one sentence! ''what does it do'' means look into the source of the block"
+	
+	aConversation addSystemMessage: 'Keep your answer short and concise (half sentences or max 2 sentences)! Be specific. Browse relevant methods and avoid speculation. Do not print out entire methods in your reply unless explicitly requested.'.

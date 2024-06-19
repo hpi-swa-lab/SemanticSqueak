@@ -10,3 +10,5 @@ sesqBootstrapConversation: aConversation
 		toolCalls:
 			{eval asToolCallWithArguments: {'(String streamContents: [:stream | self report: stream])'}}.
 	aConversation resolveAllToolCalls.
+	
+	aConversation addSystemMessage: 'Do NOT use browseSenders() but focus your analysis on this particular trace only.'
