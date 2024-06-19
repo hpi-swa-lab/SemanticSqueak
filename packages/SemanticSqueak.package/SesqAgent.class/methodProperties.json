@@ -1,5 +1,7 @@
 {
 	"class" : {
+		"debugQuestions" : "ct 6/19/2024 14:57",
+		"debugQuestions:" : "ct 6/19/2024 14:57",
 		"exampleBoard" : "ct 5/2/2024 19:49",
 		"exampleProxy" : "ct 5/2/2024 19:42",
 		"exampleText" : "ct 4/27/2024 21:46",
@@ -19,7 +21,7 @@
 		"browseSenders:forQuery:" : "ct 4/29/2024 18:33",
 		"eval:" : "ct 4/29/2024 18:32",
 		"forObject:answerQuestion0:" : "ct 5/25/2024 23:09",
-		"forObject:answerQuestion:" : "ct 5/25/2024 23:10",
+		"forObject:answerQuestion:" : "ct 6/19/2024 14:57",
 		"initializeConversation:" : "ct 4/27/2024 22:57",
 		"object" : "ct 5/2/2024 19:26",
 		"object:" : "ct 3/15/2024 23:34",

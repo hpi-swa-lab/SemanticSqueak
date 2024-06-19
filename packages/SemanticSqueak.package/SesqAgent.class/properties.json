@@ -3,6 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
+		"DebugQuestions",
 		"IntegrateIntoInspectors" ],
 	"commentStamp" : "ct 5/2/2024 19:38",
 	"instvars" : [

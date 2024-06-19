@@ -38,7 +38,8 @@ Note that you cannot interact with the user. You MUST provide all requested info
 				withErrorDo: [:ex | self serializeExceptionVerbosely: ex]]).
 		
 		conversation addUserMessage: question.
-		conversation open.
+		self class debugQuestions ifTrue:
+			[conversation open].
 		
 		anObject sesqBootstrapConversation: conversation.
 		
