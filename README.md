@@ -12,7 +12,7 @@ This repository consists different research prototypes:
     aProduct numberOfSalesTo: aCustomer.
     aProduct countSalesFrom: '2023Q3' to: '2023Q4'.
     ```
-	In this example, `mostOftenBoughtOne`, `mostPopularArticle`, `numberOfSalesTo:`, and `countSalesFrom:to:` are not implemented on the domain objects but dispatched and handled by the exploratory programming agent instead.
+	In this example, the messages `mostOftenBoughtOne`, `mostPopularArticle`, `numberOfSalesTo:`, and `countSalesFrom:to:` are NOT implemented on the domain objects but dispatched and handled by the exploratory programming agent instead.
 - A **suggestion space** that employs source code embeddings, TF-IDF, and collaborative filtering to suggest relevant code artifacts such as classes and methods during code browsing and writing.
 - A **semantic autocompletion** extension for the [Autocompletion](https://github.com/LeonMatthes/Autocompletion) package that integrates semantic search results and LLM-generated code completion suggestions into code browsers, inspectors, and workspaces.
 
