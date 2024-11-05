@@ -16,7 +16,7 @@ This repository consists different research prototypes:
 - A **suggestion space** that employs source code embeddings, TF-IDF, and collaborative filtering to suggest relevant code artifacts such as classes and methods during code browsing and writing.
 - A **semantic autocompletion** extension for the [Autocompletion](https://github.com/LeonMatthes/Autocompletion) package that integrates semantic search results and LLM-generated code completion suggestions into code browsers, inspectors, and workspaces.
 
-This work has led to the following writings:
+This work has led to the following writings ([cite them](#citation)):
 
 - **Conference Paper "Talking to Objects in Natural Language: Toward Semantic Tools for Exploratory Programming" (Onward! 2024)**
   - Read here: <https://dl.acm.org/doi/10.1145/3689492.3690049>
