@@ -90,31 +90,12 @@ Powered by [SemanticText](https://github.com/hpi-swa-lab/Squeak-SemanticText).
 
 ### Onward! 2024 Paper
 
-Short version:
+[![https://doi.org/10.1145/3689492.3690049](https://img.shields.io/badge/doi-10.1145/3689492.3690049-blue)](https://doi.org/10.1145/3689492.3690049)
 
-```bib
-@inproceedings{thiede2024talking,
-	author = {Thiede, Christoph and Taeumel, Marcel and B\"{o}hme, Lukas and Hirschfeld, Robert},
-	title = {Talking to Objects in Natural Language: Toward Semantic Tools for Exploratory Programming},
-	year = {2024},
-	month = {10},
-	day = {25},
-	isbn = {979-840071215-9},
-	publisher = {Association for Computing Machinery},
-	address = {New York, NY, USA},
-	doi = {10.1145/3689492.3690049},
-	pages = {68–84},
-	numpages = {17},
-	keywords = {ChatGPT, LLMs, Smalltalk, conversational agents, exploratory programming, generative AI, natural-language programming, object-oriented programming, semantic tools},
-	location = {Pasadena, CA, USA},
-	series = {Onward! '24}
-}
-```
-
-Long version:
+> Christoph Thiede, Marcel Taeumel, Lukas Böhme, and Robert Hirschfeld. 2024. Talking to Objects in Natural Language: Toward Semantic Tools for Exploratory Programming. In *Proceedings of the 2024 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software* (*Onward! '24*). Association for Computing Machinery, New York, NY, USA, 68–84. https://doi.org/10.1145/3689492.3690049
 
 <details>
-<summary>Citation</summary>
+<summary>BibTeX citation file</summary>
 <pre><code>@inproceedings{thiede2024talking,
 	author = {Thiede, Christoph and Taeumel, Marcel and B\"{o}hme, Lukas and Hirschfeld, Robert},
 	title = {Talking to Objects in Natural Language: Toward Semantic Tools for Exploratory Programming},
