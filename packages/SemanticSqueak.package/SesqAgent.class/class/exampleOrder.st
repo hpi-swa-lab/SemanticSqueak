@@ -1,5 +1,5 @@
 documentation
 exampleOrder
 
-	SesqDummyOrder example inspect.
-	"when was third order created?"
+	SesqDummyOrder new inspect.
+	"when was this order created?"
