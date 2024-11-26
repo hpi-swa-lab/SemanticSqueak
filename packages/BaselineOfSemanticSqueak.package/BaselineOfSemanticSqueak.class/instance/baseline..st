@@ -6,7 +6,7 @@ baseline: spec
 		"dependencies"
 		spec
 			baseline: 'SemanticText' with: [
-				spec repository: 'github://LinqLover/Squeak-SemanticText:main'];
+				spec repository: 'github://hpi-swa-lab/Squeak-SemanticText:main'];
 			baseline: 'SimulationStudio' with: [
 				spec
 					repository: 'github://LinqLover/SimulationStudio/packages';
