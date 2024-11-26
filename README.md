@@ -25,6 +25,7 @@ This work has led to the following writings ([cite them](#citation)):
   - Poster: <https://linqlover.github.io/LinqLover/posters/Onward24%20Talking%20to%20Objects.pdf>
 - **Master's thesis "The Semantic Workspace: Augmenting Exploratory Programming with Integrated Generative AI Tools"**
   - Read here: <https://github.com/LinqLover/semexp-thesis>
+- **[\[squeak-dev\] \[ANN\] Exploratory Programming - Talking to Objects in Natural Language](https://lists.squeakfoundation.org/archives/list/squeak-dev@lists.squeakfoundation.org/thread/636DWATLUNOYFZJRREMEDG42WW4AWJTA/)**
 
 ## Installation
 
