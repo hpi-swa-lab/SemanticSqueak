@@ -17,13 +17,14 @@ browseClass: className meta: isMeta
 			in: [:result |
 				isMeta ifFalse:
 					[result superclass:
-						(class superclass = Object
-							ifFalse:
-								[(self browseClass: class superclass name)]
-							ifTrue:
-								[OrderedJsonObject new
-									className: 'Object';
-									yourself]).
+						(class superclass ifNotNil: [:superclass |
+							superclass = Object
+								ifFalse:
+									[(self browseClass: superclass name)]
+								ifTrue:
+									[OrderedJsonObject new
+										className: superclass name;
+										yourself]]).
 					result classSide:
 						((self browseClass: class class name meta: true)
 							removeKey: #comment;
